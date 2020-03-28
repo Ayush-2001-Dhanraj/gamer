@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: #1b262c;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+}
+
+.rule {
+  margin-bottom: 0;
+  margin-top: 0;
+  border-style: dotted;
+  border-width: 10px;
+
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+  border-color: gold;
+  margin: 2% auto 2% auto;
+  width: 5%;
+}
+
+h4:hover {
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+
+.basic-details {
+  padding: 2% 20%;
+}
+
+h6 {
+  font-family: 'Merriweather', serif;
+  color: #e8f044;
+}
+
+.contact-form-2 {
+  margin: 2% auto 2% auto;
+}
+
+.contact-form {
+  padding: 2% 20% 0;
+}
